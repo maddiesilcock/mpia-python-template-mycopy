@@ -19,3 +19,14 @@ def add_one(number):
         return number + '1'
     else:
         raise TypeError('Expecting an int, float or string.')
+
+def hello():
+    print('Hello World')
+
+
+
+
+
+
+
+
